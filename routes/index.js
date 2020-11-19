@@ -21,6 +21,12 @@ var fichesModel = require('../models/fiches')
 var actuModel = require('../models/actu')
 var eventsModel = require('../models/event')
 
+// Pour télécharger l'application en .apk pour Android
+/* GET home page. */
+router.get('/', function(req, res, next) {
+  res.render('index');
+});
+
 router.post('/newTeam', async function (req, res, next) {
 
   var error = []
