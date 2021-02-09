@@ -1,4 +1,4 @@
-# teamMatesMobile (MVP / French)
+# TeamMates (MVP / French)
 
 Team project / End of my bootcamp at la Capsule / Two weeks of work with MERN Stack ( + React Native and Expo)
 
