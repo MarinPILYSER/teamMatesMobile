@@ -1,5 +1,6 @@
 # TeamMates (MVP / French)
 
+
 Team project / End of my bootcamp at la Capsule / Two weeks of work with MERN Stack ( + React Native and Expo)
 
 TeamMates is an app that allows team sports structures to communicate efficiently
@@ -20,5 +21,9 @@ Everything you need to share with your team, on a single app.
 
 
 
-You can try it here (android) https://teammatesreactnativeprojet.herokuapp.com/
+To try it :
+
+You can download .apk file here:https://titre.herokuapp.com/
+
+Or you can use expo
 
